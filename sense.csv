@@ -1,0 +1,325 @@
+microchip,sex,arks,current.encl.,origin,control,treatment,date,extra.bait,removed,bait,eaten,time
+9.56E+14,female,B60005,F11,QLD F1,KV,PO,10/5/16,PO(\/),look,control,1,1
+9.56E+14,female,B60005,F11,QLD F1,KV,PO,10/5/16,PO(\/),look,swap,0,1
+9.56E+14,female,B60005,F11,QLD F1,KV,PO,10/5/16,PO(\/),look,treatment,0,1
+9.56E+14,female,B60005,F11,QLD F1,KV,PO,17/5/16,PV*,smell,control,1,3
+9.56E+14,female,B60005,F11,QLD F1,KV,PO,10/5/16,PV*,smell,swap,0,2
+9.56E+14,female,B60005,F11,QLD F1,KV,PO,17/5/16,PV*,smell,swap,0,3
+9.56E+14,female,B60005,F11,QLD F1,KV,PO,10/5/16,PV*,smell,treatment,0,2
+9.56E+14,female,B60005,F11,QLD F1,KV,PO,17/5/16,PV*,smell,treatment,0,3
+9.56E+14,female,B60005,F11,QLD F1,KV,PO,10/5/16,PV*,smell,control,1,2
+9.56E+14,male,B60007,G13,QLD F1,PO,KV,8/5/16,KO(\/),smell,control,1,1
+9.56E+14,male,B60007,G13,QLD F1,PO,KV,8/5/16,KO(\/),smell,swap,0,1
+9.56E+14,male,B60007,G13,QLD F1,PO,KV,8/5/16,KO(\/),smell,treatment,0,1
+9.56E+14,male,B60007,G13,QLD F1,PO,KV,10/5/16,PV(\/),taste,control,1,2
+9.56E+14,male,B60007,G13,QLD F1,PO,KV,10/5/16,PV(\/),taste,swap,1,2
+9.56E+14,male,B60007,G13,QLD F1,PO,KV,10/5/16,PV(\/),taste,treatment,0,2
+9.56E+14,male,B60007,G13,QLD F1,PO,KV,12/5/16,KV*,look,control,1,3
+9.56E+14,male,B60007,G13,QLD F1,PO,KV,12/5/16,KV*,look,swap,1,3
+9.56E+14,male,B60007,G13,QLD F1,PO,KV,12/5/16,KV*,look,treatment,0,3
+9.56E+14,male,B60009,G1,QLD F1,KV,PO,8/5/16,KO(\/),smell,control,0,1
+9.56E+14,male,B60009,G1,QLD F1,KV,PO,10/5/16,PV(\/),look,control,0,2
+9.56E+14,male,B60009,G1,QLD F1,KV,PO,10/5/16,PV(\/),look,swap,1,2
+9.56E+14,male,B60009,G1,QLD F1,KV,PO,10/5/16,PV(\/),look,treatment,1,2
+9.56E+14,male,B60009,G1,QLD F1,KV,PO,8/5/16,KO(\/),smell,treatment,1,1
+9.56E+14,male,B60009,G1,QLD F1,KV,PO,12/5/16,KV*,taste,treatment,1,3
+9.56E+14,male,B60009,G1,QLD F1,KV,PO,8/5/16,KO(\/),smell,swap,1,1
+9.56E+14,male,B60009,G1,QLD F1,KV,PO,12/5/16,KV*,taste,swap,1,3
+9.56E+14,male,B60009,G1,QLD F1,KV,PO,12/5/16,KV*,taste,control,1,3
+9.56E+14,male,B60013,G18,QLD F1,PO,KV,12/5/16,KV*,look,treatment,0,3
+9.56E+14,male,B60013,G18,QLD F1,PO,KV,12/5/16,KV*,look,swap,0,3
+9.56E+14,male,B60013,G18,QLD F1,PO,KV,8/5/16,KO(\/),smell,swap,1,1
+9.56E+14,male,B60013,G18,QLD F1,PO,KV,12/5/16,KV*,look,control,1,3
+9.56E+14,male,B60013,G18,QLD F1,PO,KV,8/5/16,KO(\/),smell,control,1,1
+9.56E+14,male,B60013,G18,QLD F1,PO,KV,10/5/16,PV(\/),taste,control,1,2
+9.56E+14,male,B60013,G18,QLD F1,PO,KV,10/5/16,PV(\/),taste,swap,1,2
+9.56E+14,male,B60013,G18,QLD F1,PO,KV,10/5/16,PV(\/),taste,treatment,0,2
+9.56E+14,male,B60013,G18,QLD F1,PO,KV,8/5/16,KO(\/),smell,treatment,0,1
+9.56E+14,female,B60016,G17,QLD F1,PO,KV,10/5/16,PV(\/),taste,control,1,2
+9.56E+14,female,B60016,G17,QLD F1,PO,KV,10/5/16,PV(\/),taste,swap,1,2
+9.56E+14,female,B60016,G17,QLD F1,PO,KV,10/5/16,PV(\/),taste,treatment,0,2
+9.56E+14,female,B60016,G17,QLD F1,PO,KV,12/5/16,KV*,look,swap,0,3
+9.56E+14,female,B60016,G17,QLD F1,PO,KV,12/5/16,KV*,look,treatment,0,3
+9.56E+14,female,B60016,G17,QLD F1,PO,KV,8/5/16,KO(\/),smell,treatment,0,1
+9.56E+14,female,B60016,G17,QLD F1,PO,KV,12/5/16,KV*,look,control,1,3
+9.56E+14,female,B60016,G17,QLD F1,PO,KV,8/5/16,KO(\/),smell,control,1,1
+9.56E+14,female,B60016,G17,QLD F1,PO,KV,8/5/16,KO(\/),smell,swap,0,1
+9.56E+14,female,B60018,F9,QLD F1,KV,PO,10/5/16,PO(\/),look,control,1,1
+9.56E+14,female,B60018,F9,QLD F1,KV,PO,12/5/16,PV*,smell,control,1,2
+9.56E+14,female,B60018,F9,QLD F1,KV,PO,17/5/16,PV*,smell,control,1,3
+9.56E+14,female,B60018,F9,QLD F1,KV,PO,12/5/16,PV*,smell,swap,0,2
+9.56E+14,female,B60018,F9,QLD F1,KV,PO,17/5/16,PV*,smell,swap,0,3
+9.56E+14,female,B60018,F9,QLD F1,KV,PO,12/5/16,PV*,smell,treatment,0,2
+9.56E+14,female,B60018,F9,QLD F1,KV,PO,17/5/16,PV*,smell,treatment,0,3
+9.56E+14,female,B60018,F9,QLD F1,KV,PO,10/5/16,PO(\/),look,treatment,0,1
+9.56E+14,female,B60018,F9,QLD F1,KV,PO,10/5/16,PO(\/),look,swap,0,1
+9.56E+14,female,B60019,F8,QLD F1,KV,PO,12/5/16,PV*,smell,swap,0,3
+9.56E+14,female,B60019,F8,QLD F1,KV,PO,12/5/16,PV*,smell,treatment,0,3
+9.56E+14,female,B60019,F8,QLD F1,KV,PO,12/5/16,PV*,smell,control,1,3
+9.56E+14,female,B60019,F8,QLD F1,KV,PO,10/5/16,PO(\/),look,control,1,2
+9.56E+14,female,B60019,F8,QLD F1,KV,PO,10/5/16,PO(\/),look,swap,0,2
+9.56E+14,female,B60019,F8,QLD F1,KV,PO,10/5/16,PO(\/),look,treatment,0,2
+9.56E+14,female,B60019,F8,QLD F1,KV,PO,8/5/16,KO*,taste,control,1,1
+9.56E+14,female,B60019,F8,QLD F1,KV,PO,8/5/16,KO*,taste,swap,1,1
+9.56E+14,female,B60019,F8,QLD F1,KV,PO,8/5/16,KO*,taste,treatment,0,1
+9.41E+14,female,B60022,E1,QLD F1,PO,KV,12/5/16,PV(\/),taste,control,1,3
+9.41E+14,female,B60022,E1,QLD F1,PO,KV,8/5/16,KV*,look,control,1,1
+9.41E+14,female,B60022,E1,QLD F1,PO,KV,8/5/16,KV*,look,swap,0,1
+9.41E+14,female,B60022,E1,QLD F1,PO,KV,8/5/16,KV*,look,treatment,0,1
+9.41E+14,female,B60022,E1,QLD F1,PO,KV,10/5/16,KO(\/),smell,control,1,2
+9.41E+14,female,B60022,E1,QLD F1,PO,KV,10/5/16,KO(\/),smell,swap,1,2
+9.41E+14,female,B60022,E1,QLD F1,PO,KV,10/5/16,KO(\/),smell,treatment,0,2
+9.41E+14,female,B60022,E1,QLD F1,PO,KV,12/5/16,PV(\/),taste,swap,1,3
+9.41E+14,female,B60022,E1,QLD F1,PO,KV,12/5/16,PV(\/),taste,treatment,0,3
+9.56E+14,male,B60024,G9,QLD F1,PO,KV,12/5/16,KV*,look,control,1,3
+9.56E+14,male,B60024,G9,QLD F1,PO,KV,8/5/16,KO(\/),smell,control,1,1
+9.56E+14,male,B60024,G9,QLD F1,PO,KV,8/5/16,KO(\/),smell,swap,0,1
+9.56E+14,male,B60024,G9,QLD F1,PO,KV,12/5/16,KV*,look,treatment,0,3
+9.56E+14,male,B60024,G9,QLD F1,PO,KV,10/5/16,PV(\/),taste,swap,1,2
+9.56E+14,male,B60024,G9,QLD F1,PO,KV,8/5/16,KO(\/),smell,treatment,0,1
+9.56E+14,male,B60024,G9,QLD F1,PO,KV,12/5/16,KV*,look,swap,1,3
+9.56E+14,male,B60024,G9,QLD F1,PO,KV,10/5/16,PV(\/),taste,control,1,2
+9.56E+14,male,B60024,G9,QLD F1,PO,KV,10/5/16,PV(\/),taste,treatment,0,2
+9.56E+14,female,B60026,F7,QLD F1,KV,PO,12/5/16,PV*,smell,swap,0,2
+9.56E+14,female,B60026,F7,QLD F1,KV,PO,12/5/16,PV*,smell,control,1,2
+9.56E+14,female,B60026,F7,QLD F1,KV,PO,17/5/16,PV*,smell,control,1,3
+9.56E+14,female,B60026,F7,QLD F1,KV,PO,10/5/16,PO(\/),look,control,1,1
+9.56E+14,female,B60026,F7,QLD F1,KV,PO,17/5/16,PV*,smell,swap,0,3
+9.56E+14,female,B60026,F7,QLD F1,KV,PO,10/5/16,PO(\/),look,swap,0,1
+9.56E+14,female,B60026,F7,QLD F1,KV,PO,12/5/16,PV*,smell,treatment,0,2
+9.56E+14,female,B60026,F7,QLD F1,KV,PO,17/5/16,PV*,smell,treatment,0,3
+9.56E+14,female,B60026,F7,QLD F1,KV,PO,10/5/16,PO(\/),look,treatment,0,1
+9.41E+14,female,B60027,A9,QLD F1,KV,PO,12/5/16,KO*,taste,control,1,3
+9.41E+14,female,B60027,A9,QLD F1,KV,PO,10/5/16,PV*,smell,control,0,2
+9.41E+14,female,B60027,A9,QLD F1,KV,PO,12/5/16,KO*,taste,swap,1,3
+9.41E+14,female,B60027,A9,QLD F1,KV,PO,8/5/16,PO(\/),look,control,1,1
+9.41E+14,female,B60027,A9,QLD F1,KV,PO,8/5/16,PO(\/),look,swap,0,1
+9.41E+14,female,B60027,A9,QLD F1,KV,PO,8/5/16,PO(\/),look,treatment,0,1
+9.41E+14,female,B60027,A9,QLD F1,KV,PO,12/5/16,KO*,taste,treatment,0,3
+9.41E+14,female,B60027,A9,QLD F1,KV,PO,10/5/16,PV*,smell,swap,0,2
+9.41E+14,female,B60027,A9,QLD F1,KV,PO,10/5/16,PV*,smell,treatment,0,2
+9.56E+14,female,B60039,D8,Astell,PO,KV,8/5/16,PV(\/),taste,treatment,0,1
+9.56E+14,female,B60039,D8,Astell,PO,KV,10/5/16,KV*,look,control,0,2
+9.56E+14,female,B60039,D8,Astell,PO,KV,8/5/16,PV(\/),taste,control,0,1
+9.56E+14,female,B60039,D8,Astell,PO,KV,8/5/16,PV(\/),taste,swap,0,1
+9.56E+14,female,B60039,D8,Astell,PO,KV,12/5/16,KO(\/),smell,control,0,3
+9.56E+14,female,B60039,D8,Astell,PO,KV,12/5/16,KO(\/),smell,swap,0,3
+9.56E+14,female,B60039,D8,Astell,PO,KV,10/5/16,KV*,look,swap,0,2
+9.56E+14,female,B60039,D8,Astell,PO,KV,10/5/16,KV*,look,treatment,0,2
+9.56E+14,female,B60039,D8,Astell,PO,KV,12/5/16,KO(\/),smell,treatment,0,3
+9.56E+14,male,B60040,D9,Astell,PO,KV,10/5/16,KV*,look,control,1,2
+9.56E+14,male,B60040,D9,Astell,PO,KV,10/5/16,KV*,look,swap,1,2
+9.56E+14,male,B60040,D9,Astell,PO,KV,8/5/16,PV(\/),taste,swap,1,1
+9.56E+14,male,B60040,D9,Astell,PO,KV,8/5/16,PV(\/),taste,treatment,1,1
+9.56E+14,male,B60040,D9,Astell,PO,KV,12/5/16,KO(\/),smell,treatment,1,3
+9.56E+14,male,B60040,D9,Astell,PO,KV,8/5/16,PV(\/),taste,control,1,1
+9.56E+14,male,B60040,D9,Astell,PO,KV,12/5/16,KO(\/),smell,control,1,3
+9.56E+14,male,B60040,D9,Astell,PO,KV,12/5/16,KO(\/),smell,swap,1,3
+9.56E+14,male,B60040,D9,Astell,PO,KV,10/5/16,KV*,look,treatment,1,2
+9.56E+14,female,B60042,D10,Astell,PO,KV,8/5/16,PV(\/),taste,control,1,1
+9.56E+14,female,B60042,D10,Astell,PO,KV,12/5/16,KO(\/),smell,control,1,3
+9.56E+14,female,B60042,D10,Astell,PO,KV,10/5/16,KV*,look,control,0,2
+9.56E+14,female,B60042,D10,Astell,PO,KV,10/5/16,KV*,look,swap,0,2
+9.56E+14,female,B60042,D10,Astell,PO,KV,10/5/16,KV*,look,treatment,0,2
+9.56E+14,female,B60042,D10,Astell,PO,KV,8/5/16,PV(\/),taste,swap,1,1
+9.56E+14,female,B60042,D10,Astell,PO,KV,8/5/16,PV(\/),taste,treatment,0,1
+9.56E+14,female,B60042,D10,Astell,PO,KV,12/5/16,KO(\/),smell,treatment,0,3
+9.56E+14,female,B60042,D10,Astell,PO,KV,12/5/16,KO(\/),smell,swap,0,3
+9.56E+14,female,B60043,D12,Astell,PO,KV,8/5/16,PV(\/),taste,swap,1,1
+9.56E+14,female,B60043,D12,Astell,PO,KV,8/5/16,PV(\/),taste,treatment,1,1
+9.56E+14,female,B60043,D12,Astell,PO,KV,8/5/16,PV(\/),taste,control,1,1
+9.56E+14,female,B60043,D12,Astell,PO,KV,12/5/16,KO(\/),smell,control,1,3
+9.56E+14,female,B60043,D12,Astell,PO,KV,12/5/16,KO(\/),smell,swap,1,3
+9.56E+14,female,B60043,D12,Astell,PO,KV,10/5/16,KV*,look,control,1,2
+9.56E+14,female,B60043,D12,Astell,PO,KV,10/5/16,KV*,look,swap,1,2
+9.56E+14,female,B60043,D12,Astell,PO,KV,10/5/16,KV*,look,treatment,1,2
+9.56E+14,female,B60043,D12,Astell,PO,KV,12/5/16,KO(\/),smell,treatment,1,3
+9.56E+14,male,B60044,D13,Astell,PO,KV,10/5/16,KV*,look,control,1,2
+9.56E+14,male,B60044,D13,Astell,PO,KV,8/5/16,PV(\/),taste,control,1,1
+9.56E+14,male,B60044,D13,Astell,PO,KV,8/5/16,PV(\/),taste,treatment,0,1
+9.56E+14,male,B60044,D13,Astell,PO,KV,12/5/16,KO(\/),smell,swap,1,3
+9.56E+14,male,B60044,D13,Astell,PO,KV,10/5/16,KV*,look,swap,1,2
+9.56E+14,male,B60044,D13,Astell,PO,KV,8/5/16,PV(\/),taste,swap,1,1
+9.56E+14,male,B60044,D13,Astell,PO,KV,12/5/16,KO(\/),smell,control,1,3
+9.56E+14,male,B60044,D13,Astell,PO,KV,12/5/16,KO(\/),smell,treatment,1,3
+9.56E+14,male,B60044,D13,Astell,PO,KV,10/5/16,KV*,look,treatment,1,2
+9.56E+14,female,B60048,D3,Astell,PO,KV,8/5/16,PV(\/),taste,control,1,1
+9.56E+14,female,B60048,D3,Astell,PO,KV,10/5/16,KV*,look,control,1,2
+9.56E+14,female,B60048,D3,Astell,PO,KV,10/5/16,KV*,look,swap,0,2
+9.56E+14,female,B60048,D3,Astell,PO,KV,10/5/16,KV*,look,treatment,0,2
+9.56E+14,female,B60048,D3,Astell,PO,KV,12/5/16,KO(\/),smell,control,1,3
+9.56E+14,female,B60048,D3,Astell,PO,KV,8/5/16,PV(\/),taste,swap,1,1
+9.56E+14,female,B60048,D3,Astell,PO,KV,8/5/16,PV(\/),taste,treatment,0,1
+9.56E+14,female,B60048,D3,Astell,PO,KV,12/5/16,KO(\/),smell,swap,0,3
+9.56E+14,female,B60048,D3,Astell,PO,KV,12/5/16,KO(\/),smell,treatment,1,3
+9.56E+14,female,B60049,D1,Astell,PO,KV,8/5/16,PV(\/),taste,control,0,1
+9.56E+14,female,B60049,D1,Astell,PO,KV,10/5/16,KV*,look,control,1,2
+9.56E+14,female,B60049,D1,Astell,PO,KV,12/5/16,KO(\/),smell,control,0,3
+9.56E+14,female,B60049,D1,Astell,PO,KV,12/5/16,KO(\/),smell,swap,1,3
+9.56E+14,female,B60049,D1,Astell,PO,KV,12/5/16,KO(\/),smell,treatment,0,3
+9.56E+14,female,B60049,D1,Astell,PO,KV,10/5/16,KV*,look,swap,0,2
+9.56E+14,female,B60049,D1,Astell,PO,KV,10/5/16,KV*,look,treatment,0,2
+9.56E+14,female,B60049,D1,Astell,PO,KV,8/5/16,PV(\/),taste,swap,1,1
+9.56E+14,female,B60049,D1,Astell,PO,KV,8/5/16,PV(\/),taste,treatment,0,1
+9.56E+14,male,B60051,D6,Astell,PO,KV,10/5/16,KV*,look,control,1,2
+9.56E+14,male,B60051,D6,Astell,PO,KV,10/5/16,KV*,look,swap,0,2
+9.56E+14,male,B60051,D6,Astell,PO,KV,8/5/16,PV(\/),taste,control,1,1
+9.56E+14,male,B60051,D6,Astell,PO,KV,8/5/16,PV(\/),taste,swap,1,1
+9.56E+14,male,B60051,D6,Astell,PO,KV,8/5/16,PV(\/),taste,treatment,0,1
+9.56E+14,male,B60051,D6,Astell,PO,KV,12/5/16,KO(\/),smell,control,1,3
+9.56E+14,male,B60051,D6,Astell,PO,KV,12/5/16,KO(\/),smell,swap,0,3
+9.56E+14,male,B60051,D6,Astell,PO,KV,12/5/16,KO(\/),smell,treatment,0,3
+9.56E+14,male,B60051,D6,Astell,PO,KV,10/5/16,KV*,look,treatment,0,2
+9.56E+14,male,B60053,G14,Astell,PO,KV,16/5/16,KO(\/),smell,control,1,3
+9.56E+14,male,B60053,G14,Astell,PO,KV,10/5/16,PV(\/),taste,swap,1,1
+9.56E+14,male,B60053,G14,Astell,PO,KV,10/5/16,PV(\/),taste,treatment,1,1
+9.56E+14,male,B60053,G14,Astell,PO,KV,12/5/16,KV*,look,treatment,1,2
+9.56E+14,male,B60053,G14,Astell,PO,KV,10/5/16,PV(\/),taste,control,1,1
+9.56E+14,male,B60053,G14,Astell,PO,KV,12/5/16,KV*,look,control,1,2
+9.56E+14,male,B60053,G14,Astell,PO,KV,12/5/16,KV*,look,swap,0,2
+9.56E+14,male,B60053,G14,Astell,PO,KV,16/5/16,KO(\/),smell,swap,1,3
+9.56E+14,male,B60053,G14,Astell,PO,KV,16/5/16,KO(\/),smell,treatment,1,3
+9.56E+14,male,B60058,B3,Astell,KV,PO,10/5/16,KO*,taste,control,1,2
+9.56E+14,male,B60058,B3,Astell,KV,PO,12/5/16,PO(\/),look,control,1,3
+9.56E+14,male,B60058,B3,Astell,KV,PO,8/5/16,PV*,smell,control,1,1
+9.56E+14,male,B60058,B3,Astell,KV,PO,8/5/16,PV*,smell,swap,1,1
+9.56E+14,male,B60058,B3,Astell,KV,PO,12/5/16,PO(\/),look,swap,1,3
+9.56E+14,male,B60058,B3,Astell,KV,PO,12/5/16,PO(\/),look,treatment,1,3
+9.56E+14,male,B60058,B3,Astell,KV,PO,10/5/16,KO*,taste,swap,1,2
+9.56E+14,male,B60058,B3,Astell,KV,PO,10/5/16,KO*,taste,treatment,1,2
+9.56E+14,male,B60058,B3,Astell,KV,PO,8/5/16,PV*,smell,treatment,1,1
+9.56E+14,female,B60065,B8,Astell,KV,PO,12/5/16,PO(\/),look,control,1,3
+9.56E+14,female,B60065,B8,Astell,KV,PO,12/5/16,PO(\/),look,swap,1,3
+9.56E+14,female,B60065,B8,Astell,KV,PO,10/5/16,KO*,taste,control,1,2
+9.56E+14,female,B60065,B8,Astell,KV,PO,10/5/16,KO*,taste,swap,0,2
+9.56E+14,female,B60065,B8,Astell,KV,PO,8/5/16,PV*,smell,control,1,1
+9.56E+14,female,B60065,B8,Astell,KV,PO,8/5/16,PV*,smell,swap,0,1
+9.56E+14,female,B60065,B8,Astell,KV,PO,8/5/16,PV*,smell,treatment,0,1
+9.56E+14,female,B60065,B8,Astell,KV,PO,10/5/16,KO*,taste,treatment,1,2
+9.56E+14,female,B60065,B8,Astell,KV,PO,12/5/16,PO(\/),look,treatment,1,3
+9.56E+14,female,B60069,G10,Astell,PO,KV,8/5/16,KO(\/),smell,control,1,1
+9.56E+14,female,B60069,G10,Astell,PO,KV,12/5/16,KV*,look,control,1,3
+9.56E+14,female,B60069,G10,Astell,PO,KV,12/5/16,KV*,look,swap,0,3
+9.56E+14,female,B60069,G10,Astell,PO,KV,8/5/16,KO(\/),smell,swap,0,1
+9.56E+14,female,B60069,G10,Astell,PO,KV,10/5/16,PV(\/),taste,control,1,2
+9.56E+14,female,B60069,G10,Astell,PO,KV,10/5/16,PV(\/),taste,swap,1,2
+9.56E+14,female,B60069,G10,Astell,PO,KV,10/5/16,PV(\/),taste,treatment,0,2
+9.56E+14,female,B60069,G10,Astell,PO,KV,12/5/16,KV*,look,treatment,0,3
+9.56E+14,female,B60069,G10,Astell,PO,KV,8/5/16,KO(\/),smell,treatment,0,1
+9.56E+14,male,B60070,B1,Astell,KV,PO,10/5/16,KO*,taste,control,1,2
+9.56E+14,male,B60070,B1,Astell,KV,PO,10/5/16,KO*,taste,swap,1,2
+9.56E+14,male,B60070,B1,Astell,KV,PO,8/5/16,PV*,smell,control,1,1
+9.56E+14,male,B60070,B1,Astell,KV,PO,8/5/16,PV*,smell,swap,1,1
+9.56E+14,male,B60070,B1,Astell,KV,PO,10/5/16,KO*,taste,treatment,1,2
+9.56E+14,male,B60070,B1,Astell,KV,PO,12/5/16,PO(\/),look,control,1,3
+9.56E+14,male,B60070,B1,Astell,KV,PO,12/5/16,PO(\/),look,swap,1,3
+9.56E+14,male,B60070,B1,Astell,KV,PO,12/5/16,PO(\/),look,treatment,1,3
+9.56E+14,male,B60070,B1,Astell,KV,PO,8/5/16,PV*,smell,treatment,1,1
+9.56E+14,female,B60071,G12,Astell,PO,KV,12/5/16,KV*,look,control,1,3
+9.56E+14,female,B60071,G12,Astell,PO,KV,10/5/16,PV(\/),taste,control,1,2
+9.56E+14,female,B60071,G12,Astell,PO,KV,10/5/16,PV(\/),taste,treatment,0,2
+9.56E+14,female,B60071,G12,Astell,PO,KV,8/5/16,KO(\/),smell,swap,1,1
+9.56E+14,female,B60071,G12,Astell,PO,KV,12/5/16,KV*,look,swap,0,3
+9.56E+14,female,B60071,G12,Astell,PO,KV,10/5/16,PV(\/),taste,swap,1,2
+9.56E+14,female,B60071,G12,Astell,PO,KV,8/5/16,KO(\/),smell,control,1,1
+9.56E+14,female,B60071,G12,Astell,PO,KV,8/5/16,KO(\/),smell,treatment,0,1
+9.56E+14,female,B60071,G12,Astell,PO,KV,12/5/16,KV*,look,treatment,0,3
+9.56E+14,male,B60073,G16,Astell,PO,KV,10/5/16,PV(\/),taste,control,1,2
+9.56E+14,male,B60073,G16,Astell,PO,KV,12/5/16,KV*,look,control,1,3
+9.56E+14,male,B60073,G16,Astell,PO,KV,12/5/16,KV*,look,swap,0,3
+9.56E+14,male,B60073,G16,Astell,PO,KV,12/5/16,KV*,look,treatment,1,3
+9.56E+14,male,B60073,G16,Astell,PO,KV,10/5/16,PV(\/),taste,swap,1,2
+9.56E+14,male,B60073,G16,Astell,PO,KV,10/5/16,PV(\/),taste,treatment,0,2
+9.56E+14,male,B60073,G16,Astell,PO,KV,8/5/16,KO(\/),smell,treatment,0,1
+9.56E+14,male,B60073,G16,Astell,PO,KV,8/5/16,KO(\/),smell,control,1,1
+9.56E+14,male,B60073,G16,Astell,PO,KV,8/5/16,KO(\/),smell,swap,0,1
+9.56E+14,female,B60074,B10,Astell,KV,PO,10/5/16,KO*,taste,swap,1,2
+9.56E+14,female,B60074,B10,Astell,KV,PO,10/5/16,KO*,taste,control,1,2
+9.56E+14,female,B60074,B10,Astell,KV,PO,8/5/16,PV*,smell,control,1,1
+9.56E+14,female,B60074,B10,Astell,KV,PO,8/5/16,PV*,smell,swap,1,1
+9.56E+14,female,B60074,B10,Astell,KV,PO,12/5/16,PO(\/),look,control,1,3
+9.56E+14,female,B60074,B10,Astell,KV,PO,12/5/16,PO(\/),look,swap,0,3
+9.56E+14,female,B60074,B10,Astell,KV,PO,12/5/16,PO(\/),look,treatment,0,3
+9.56E+14,female,B60074,B10,Astell,KV,PO,10/5/16,KO*,taste,treatment,1,2
+9.56E+14,female,B60074,B10,Astell,KV,PO,8/5/16,PV*,smell,treatment,0,1
+9.56E+14,female,B60078,B2,Astell,KV,PO,12/5/16,PO(\/),look,control,1,3
+9.56E+14,female,B60078,B2,Astell,KV,PO,10/5/16,KO*,taste,swap,1,2
+9.56E+14,female,B60078,B2,Astell,KV,PO,10/5/16,KO*,taste,treatment,1,2
+9.56E+14,female,B60078,B2,Astell,KV,PO,8/5/16,PV*,smell,treatment,1,1
+9.56E+14,female,B60078,B2,Astell,KV,PO,10/5/16,KO*,taste,control,1,2
+9.56E+14,female,B60078,B2,Astell,KV,PO,8/5/16,PV*,smell,control,1,1
+9.56E+14,female,B60078,B2,Astell,KV,PO,8/5/16,PV*,smell,swap,0,1
+9.56E+14,female,B60078,B2,Astell,KV,PO,12/5/16,PO(\/),look,swap,1,3
+9.56E+14,female,B60078,B2,Astell,KV,PO,12/5/16,PO(\/),look,treatment,1,3
+9.56E+14,female,B60080,H7,Astell,KV,PO,12/5/16,KO*,taste,control,1,3
+9.56E+14,female,B60080,H7,Astell,KV,PO,8/5/16,PO(\/),look,control,1,1
+9.56E+14,female,B60080,H7,Astell,KV,PO,8/5/16,PO(\/),look,swap,0,1
+9.56E+14,female,B60080,H7,Astell,KV,PO,12/5/16,KO*,taste,swap,1,3
+9.56E+14,female,B60080,H7,Astell,KV,PO,12/5/16,KO*,taste,treatment,0,3
+9.56E+14,female,B60080,H7,Astell,KV,PO,10/5/16,PV*,smell,swap,0,2
+9.56E+14,female,B60080,H7,Astell,KV,PO,10/5/16,PV*,smell,treatment,0,2
+9.56E+14,female,B60080,H7,Astell,KV,PO,8/5/16,PO(\/),look,treatment,1,1
+9.56E+14,female,B60080,H7,Astell,KV,PO,10/5/16,PV*,smell,control,1,2
+9.56E+14,female,B60081,G8,Astell,PO,KV,10/5/16,PV(\/),taste,control,1,2
+9.56E+14,female,B60081,G8,Astell,PO,KV,10/5/16,PV(\/),taste,swap,0,2
+9.56E+14,female,B60081,G8,Astell,PO,KV,8/5/16,KO(\/),smell,control,1,1
+9.56E+14,female,B60081,G8,Astell,PO,KV,12/5/16,KV*,look,control,1,3
+9.56E+14,female,B60081,G8,Astell,PO,KV,12/5/16,KV*,look,swap,1,3
+9.56E+14,female,B60081,G8,Astell,PO,KV,12/5/16,KV*,look,treatment,0,3
+9.56E+14,female,B60081,G8,Astell,PO,KV,8/5/16,KO(\/),smell,swap,0,1
+9.56E+14,female,B60081,G8,Astell,PO,KV,10/5/16,PV(\/),taste,treatment,0,2
+9.56E+14,female,B60081,G8,Astell,PO,KV,8/5/16,KO(\/),smell,treatment,0,1
+9.56E+14,female,B60082,G6,Astell,PO,KV,12/5/16,KV*,look,control,1,3
+9.56E+14,female,B60082,G6,Astell,PO,KV,10/5/16,PV(\/),taste,control,1,2
+9.56E+14,female,B60082,G6,Astell,PO,KV,10/5/16,PV(\/),taste,swap,1,2
+9.56E+14,female,B60082,G6,Astell,PO,KV,12/5/16,KV*,look,swap,0,3
+9.56E+14,female,B60082,G6,Astell,PO,KV,8/5/16,KO(\/),smell,control,1,1
+9.56E+14,female,B60082,G6,Astell,PO,KV,8/5/16,KO(\/),smell,swap,0,1
+9.56E+14,female,B60082,G6,Astell,PO,KV,8/5/16,KO(\/),smell,treatment,0,1
+9.56E+14,female,B60082,G6,Astell,PO,KV,12/5/16,KV*,look,treatment,0,3
+9.56E+14,female,B60082,G6,Astell,PO,KV,10/5/16,PV(\/),taste,treatment,0,2
+9.56E+14,female,B60089,B4,Astell,KV,PO,8/5/16,PV*,smell,control,1,1
+9.56E+14,female,B60089,B4,Astell,KV,PO,12/5/16,PO(\/),look,control,1,3
+9.56E+14,female,B60089,B4,Astell,KV,PO,12/5/16,PO(\/),look,swap,0,3
+9.56E+14,female,B60089,B4,Astell,KV,PO,12/5/16,PO(\/),look,treatment,0,3
+9.56E+14,female,B60089,B4,Astell,KV,PO,10/5/16,KO*,taste,control,1,2
+9.56E+14,female,B60089,B4,Astell,KV,PO,10/5/16,KO*,taste,swap,1,2
+9.56E+14,female,B60089,B4,Astell,KV,PO,10/5/16,KO*,taste,treatment,1,2
+9.56E+14,female,B60089,B4,Astell,KV,PO,8/5/16,PV*,smell,swap,0,1
+9.56E+14,female,B60089,B4,Astell,KV,PO,8/5/16,PV*,smell,treatment,1,1
+9.56E+14,male,B60090,B5,Astell,KV,PO,10/5/16,KO*,taste,control,1,2
+9.56E+14,male,B60090,B5,Astell,KV,PO,8/5/16,PV*,smell,control,1,1
+9.56E+14,male,B60090,B5,Astell,KV,PO,8/5/16,PV*,smell,swap,1,1
+9.56E+14,male,B60090,B5,Astell,KV,PO,10/5/16,KO*,taste,swap,1,2
+9.56E+14,male,B60090,B5,Astell,KV,PO,10/5/16,KO*,taste,treatment,1,2
+9.56E+14,male,B60090,B5,Astell,KV,PO,12/5/16,PO(\/),look,treatment,1,3
+9.56E+14,male,B60090,B5,Astell,KV,PO,12/5/16,PO(\/),look,control,1,3
+9.56E+14,male,B60090,B5,Astell,KV,PO,12/5/16,PO(\/),look,swap,1,3
+9.56E+14,male,B60090,B5,Astell,KV,PO,8/5/16,PV*,smell,treatment,1,1
+9.56E+14,female,B60094,B6,Astell,KV,PO,10/5/16,KO*,taste,swap,0,2
+9.56E+14,female,B60094,B6,Astell,KV,PO,10/5/16,KO*,taste,control,1,2
+9.56E+14,female,B60094,B6,Astell,KV,PO,12/5/16,PO(\/),look,control,1,3
+9.56E+14,female,B60094,B6,Astell,KV,PO,12/5/16,PO(\/),look,swap,1,3
+9.56E+14,female,B60094,B6,Astell,KV,PO,8/5/16,PV*,smell,control,1,1
+9.56E+14,female,B60094,B6,Astell,KV,PO,8/5/16,PV*,smell,swap,0,1
+9.56E+14,female,B60094,B6,Astell,KV,PO,8/5/16,PV*,smell,treatment,1,1
+9.56E+14,female,B60094,B6,Astell,KV,PO,12/5/16,PO(\/),look,treatment,1,3
+9.56E+14,female,B60094,B6,Astell,KV,PO,10/5/16,KO*,taste,treatment,0,2
+9.56E+14,male,B60096,D4,Astell,PO,KV,10/5/16,KV*,look,control,1,2
+9.56E+14,male,B60096,D4,Astell,PO,KV,10/5/16,KV*,look,swap,1,2
+9.56E+14,male,B60096,D4,Astell,PO,KV,10/5/16,KV*,look,treatment,0,2
+9.56E+14,male,B60096,D4,Astell,PO,KV,8/5/16,PV(\/),taste,control,1,1
+9.56E+14,male,B60096,D4,Astell,PO,KV,8/5/16,PV(\/),taste,swap,1,1
+9.56E+14,male,B60096,D4,Astell,PO,KV,8/5/16,PV(\/),taste,treatment,0,1
+9.56E+14,male,B60096,D4,Astell,PO,KV,12/5/16,KO(\/),smell,control,1,3
+9.56E+14,male,B60096,D4,Astell,PO,KV,12/5/16,KO(\/),smell,swap,1,3
+9.56E+14,male,B60096,D4,Astell,PO,KV,12/5/16,KO(\/),smell,treatment,0,3
+9.41E+14,male,B60102,,Astell,KV,PO,10/5/16,PV*,smell,control,1,2
+9.41E+14,male,B60102,,Astell,KV,PO,10/5/16,PV*,smell,swap,1,2
+9.41E+14,male,B60102,,Astell,KV,PO,10/5/16,PV*,smell,treatment,1,2
+9.41E+14,male,B60102,,Astell,KV,PO,8/5/16,PO(\/),look,control,1,1
+9.41E+14,male,B60102,,Astell,KV,PO,8/5/16,PO(\/),look,swap,1,1
+9.41E+14,male,B60102,,Astell,KV,PO,8/5/16,PO(\/),look,treatment,1,1
+9.41E+14,male,B60102,,Astell,KV,PO,12/5/16,KO*,taste,control,1,3
+9.41E+14,male,B60102,,Astell,KV,PO,12/5/16,KO*,taste,swap,1,3
+9.41E+14,male,B60102,,Astell,KV,PO,12/5/16,KO*,taste,treatment,1,3
